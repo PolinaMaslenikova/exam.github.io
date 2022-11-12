@@ -1,0 +1,5 @@
+Student name: Polina Maslenikova
+Student number:690573
+Student class:IT1B
+URL student FitHub website: https://github.com/PolinaMaslenikova
+URL student GitHub repository: https://github.com/PolinaMaslenikova/exam.github.io.git
